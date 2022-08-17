@@ -1,10 +1,9 @@
 {
-  "name": "honeycomb",
+  "name": "honeycombtemplate",
   "description": "all-in-one task starter app with jsPsych + React + Electron + psiturk ",
   "author": {
-    "name": "Brown CCV",
-    "email": "ccv-bot@brown.edu",
-    "url": "ccv.brown.edu"
+    "name": "Joonhwa Kim",
+    "email": "joonhwa_kim@brown.edu"
   },
   "version": "2.3.1",
   "license": "MIT",
